@@ -15,7 +15,7 @@ nine thousand, nine hundred and twenty two thousand cleaned dataset (9922)  .
 
 
 -How much is the total  revenue by product?
-To obtain the results, I will microsoft formual similar to the one below:
+To obtain the results, I will microsoft Ecxcel formual similar to the one below:
 
 Total Revenue by Product= Quantity Sold*Price Per Unit
 Total Revenue by Product= F2*G2
