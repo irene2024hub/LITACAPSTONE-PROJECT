@@ -1,6 +1,6 @@
 # SALES PERFORMANCE ANALYSIS FOR RETAILS STORE
 
-For this project, I will use Microsoft Excel, SQL, and Poweer Bi with detaila data analysis .
+For this project, I will use Microsoft Excel, SQL, and Power Bi with detaila data analysis .
 The data was collected from Fashion retailer stores from FOUR (4) different regions between 2023 to 2024.
 This comprehensive dataset aims to offer insights into shopping habits and provide a valuable understanding of shopping patterns
 
