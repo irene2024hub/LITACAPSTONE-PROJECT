@@ -126,6 +126,31 @@ Where F2 represent the quantity Sold and G2 represent Price per Unit
 
 *PIVOT TABLE* : Pivot table will be used to work on  Data calculated suing excel formulas such data  summarization,
 Data Filtering. Comparison, data reshaping and proper Analysis
+ANALYSIS QUESTIONS
+ Using Excel formulas to calculate metrics such as;
+1.	What is the Total Average sales per product 
+2.	What is the Total revenue by region 
+
+Using pivot table to extract;
+
+3.	What are the total sales by product
+4.	What are the total Sales by region   
+5.	What are the Average sales by product
+6.	Analysis total product ordered by each region?
+7.	Calculate Monthly Sales Trend? 
+8.	Calculate the amount of product ordered by each of the region monthly?
+9.	Identify the product with the Highest and Lowest sale by Region?
+10.	What are the percentage of total sales by each region?
+           
+Using SQL, write Queries on how to extract key insights based on the following questions.  
+o Retrieve the total sales for each product category. 
+o Find the number of sales transactions in each region. 
+o Find the highest-selling product by total sales value. 
+o Calculate total revenue per product. 
+o Calculate monthly sales totals for the current year. 
+o Find the top 5 customers by total purchase amount. 
+O Calculate the percentage of total sales contributed by each region. 
+o Identify products with no sales in the last quarter. 
 
 ![image](https://github.com/user-attachments/assets/16206b46-7cd7-4af8-9028-33d4562cdd69)
 
