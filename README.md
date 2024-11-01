@@ -152,29 +152,9 @@ o Find the top 5 customers by total purchase amount.
 O Calculate the percentage of total sales contributed by each region. 
 o Identify products with no sales in the last quarter. 
 
-![image](https://github.com/user-attachments/assets/16206b46-7cd7-4af8-9028-33d4562cdd69)
-
-FRom the athe above table, total revenue by product indicated that  
-shoes are of higher demand by customers  followed by Shirt while the need for Socks are very low.
-This can be traced to some factors that affect demand such as  FASHION TREND and CULTURAL INFLUENCES: 
-Urban populations, particularly in metropolitan areas, are generally more influenced by fashion trends and may have higher demand for trendy or branded items
-like *SHOES*, *SHIRT* and lower demand on *SOCKS*
-Promotional Campaigns: Discounts, seasonal promotions, or bundle deals (like socks + gloves) can boost sales, especially in competitive and price-sensitive markets.
 
 
-## HOW MUCH IS TOTAL REVENUE BY REGION? ##
 
-![image](https://github.com/user-attachments/assets/c057c3e5-ca20-49ef-8f8d-3c7759559cde)
-
-*CLIMATE VARIATION*  : Nigeria has diverse climates, ranging from the arid north to the humid south. Cooler regions, especially in the middle belt and highland areas, may have higher demand for items like jackets, gloves, and hats. 
-*SEASONAL CHANGES*: The rainy season (around April to October in the south) can affect demand for protective wear like waterproof jackets and sturdy shoes, while the harmattan season (November to February) in northern Nigeria can increase demand for jackets, socks, and gloves.
-
-*Marketing and Brand Presence*
-# Brand Awareness: Regions where a brand has a strong presence, whether through stores or social media advertising, tend to see higher sales.From the above table it can be seeen the # Southern Region # has adopted brand Awareness strategies which has increased their total revenue to #927,820. This high sales revenue indicated that  sales Managers and their team adopted Brand awareness, discount sales.
-
-
-## HOW MUCH IS TOTAL MONTHLY REVENUE ##
-![image](https://github.com/user-attachments/assets/87d8e274-890e-4d8d-b7c3-accb46035632)
 
 *The sales revenue spike from #248,000  in Januray to #546,300 February contributing to 45% increase in total sales and this can be related to some of the reasons listed below;
 
