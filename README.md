@@ -298,7 +298,6 @@ In this portfolio project, I conducted an analysis of Sophiematrissales data usi
 
 ![image](https://github.com/user-attachments/assets/adb2cb6b-e3c4-402e-bc05-996c88519209)
 
-![image](https://github.com/user-attachments/assets/0f519c76-cf32-4882-a12c-e31cdf193916)
 
 
  I anlyzed data from SQL. I used SQL to query the data from the database and imported into PowerBI where the actual analysis was carried out. 
