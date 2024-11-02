@@ -2,14 +2,14 @@
 
 # INTRODUCTION
 **In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies**. 
-**This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.
-By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights
+**This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.**
+*8By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights
 that can inform business decisions and drive growth**.
 
 # PROJECT OBJECTIVES
 **The primary objectives of this data analysis project are to**:
 
-1. Understand Customer Preferences: Identify which fashion categories, styles, and price points resonate most with customers.
+1. **Understand Customer Preferences: Identify which fashion categories, styles, and price points resonate most with customers.
 
 
 2. Optimize Inventory Management: Determine fast-moving and slow-moving items to ensure optimal stock levels, reducing overstock and stockouts.
@@ -161,15 +161,6 @@ Data Filtering. Comparison, data reshaping and proper Analysis**
 9.	Identify the product with the Highest and Lowest sale by Region?
 10.	What are the percentage of total sales by each region?
            
-Using SQL, write Queries on how to extract key insights based on the following questions.  
-* Retrieve the total sales for each product category. 
-*  Find the number of sales transactions in each region. 
-*  Find the highest-selling product by total sales value. 
-* Calculate total revenue per product. 
-* Calculate monthly sales totals for the current year. 
-* Find the top 5 customers by total purchase amount. 
-*  Calculate the percentage of total sales contributed by each region. 
-* Identify products with no sales in the last quarter. 
 
 ### MICROSOFT EXCEL INSIGHT 
 
@@ -249,3 +240,42 @@ Valentine’s Day: Apparel is often a popular gift choice for Valentine's Day, b
 
 * Gifting Patterns: Apparel items like gloves, hats, and socks are sometimes less frequently given as gifts compared to electronics or toys.
 Waiting for Post-Holiday Discounts: Some consumers might delay clothing purchases to take advantage of January clearance events, particularly for winter items like jackets.
+
+## EXPLORATORY DATA ANALYSIS ON SALES PERFORMANCE USING SQL
+
+Using SQL, write Queries on how to extract key insights based on the following;
+
+* Retrieve the total sales for each product category. 
+*  Find the number of sales transactions in each region. 
+*  Find the highest-selling product by total sales value. 
+* Calculate total revenue per product. 
+* Calculate monthly sales totals for the current year. 
+* Find the top 5 customers by total purchase amount. 
+*  Calculate the percentage of total sales contributed by each region. 
+* Identify products with no sales in the last quarter.
+* 
+In this portfolio project, I conducted an analysis of Sophiematrissales data using SQL queries with dataset Schema [dbo].[SALESDATA] with following field details;
+*OrderID
+*Customer_id
+*Product
+*Region
+*orderDate
+*Quantity_Units_Sold
+*Unit_price
+*Total_revenue_Per_Product
+*Average_Unit_Product
+*Month
+*Quarter
+
+![image](https://github.com/user-attachments/assets/b108526a-6c14-47f1-bed1-65b11d1c568f)
+
+![image](https://github.com/user-attachments/assets/d087af0c-a6f7-42a2-a756-dedcb51f8371)
+
+![image](https://github.com/user-attachments/assets/c234846b-a981-42b9-8f46-b363aa888a48)
+
+![image](https://github.com/user-attachments/assets/df7ef79e-20de-47a9-b37e-e367b2eed107)
+
+![image](https://github.com/user-attachments/assets/0e3bf53d-f33b-40ef-b38b-b3ce0145eee5)
+
+![image](https://github.com/user-attachments/assets/959af8b6-9128-4e81-9155-3b9dab532628)
+
