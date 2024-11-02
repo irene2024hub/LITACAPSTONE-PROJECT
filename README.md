@@ -188,6 +188,7 @@ Customers may purchase more shirts and shoes compared to hats, jackets, and glov
 * Emotional Purchase Factors: Clothing is often tied to personal expression and identity. Customers may feel a stronger emotional connection to shirts and shoes as they allow for individual expression, leading to higher purchase rates.
 
 * Seasonal Demand: While jackets and gloves are typically seasonal items, shirts and shoes can be purchased year-round. This continual demand keeps sales consistent, unlike more seasonal items that may see spikes in specific months.
+* 
 research shows that clothing items like shirts often drive sales due to their fundamental role in the wardrobe and the desire for variety. Footwear is similarly a critical component of personal style and function, influencing purchasing behavior significantly.
 ![image](https://github.com/user-attachments/assets/b5dcc56c-3a3c-4116-b624-8210e3446890)
 
@@ -196,9 +197,12 @@ From the above summarized table and chart we can boldly say that the southern re
 Southern region alone recorded 44.16% of the total revenue compared to the western region with 14.29% of total revenue
 
 In Nigeria, higher sales performance in the South,North,East,  and East for products like shirts, shoes, hats, jackets, gloves, and socks can be attributed to several factors:
+
 *. Population Density and Urbanization:
 The South and East of Nigeria include highly populated and urbanized regions such as Lagos, Port Harcourt, and Onitsha. These areas have larger consumer bases with increased purchasing power, resulting in higher sales for everyday items like shirts and shoes.
+
 Lagos, for example, is a commercial hub with a high demand for fashion items due to the high number of residents and frequent events where people want to dress stylishly. The larger population in these areas leads to more consistent demand across various product categories.
+
 * Economic Activities and Disposable Income:
 The Southern and Eastern regions have strong economic activities, including oil, trade, and manufacturing industries, particularly around Port Harcourt and Lagos. These industries contribute to higher average disposable incomes, allowing consumers to spend more on apparel and fashion products.
 As people in these regions often have more disposable income, they are more likely to purchase items beyond basic needs, including trendy or high-quality clothing and accessories.
@@ -209,22 +213,32 @@ Nigeria has a generally warm climate, but the South and East experience relative
 In contrast, the North tends to be hotter and drier, with less demand for items like jackets or gloves, which are less essential in that climate.
 •	 Fashion Trends and Social Influence:
 The Southern and Eastern regions, especially urban centers like Lagos, are known for their vibrant fashion scenes. Influencers, celebrities, and local trends drive higher demand for stylish clothing items.
+
 Lagos is known as a fashion and entertainment hub, leading to a higher demand for clothing that reflects current trends and fashion standards, including shirts and shoes which are worn daily.
+
 •	Infrastructure and Retail Presence:
 The South and East regions have more developed retail infrastructure, including shopping malls, boutiques, and e-commerce delivery services, making it easier for customers to access and purchase clothing items.
+
 Better access to products and reliable supply chains encourages more frequent purchases compared to the West and North, where such infrastructure may be less developed.
+
 •	 Cultural Factors:
+
 Cultural celebrations in the South and East, such as traditional weddings and festivals, drive demand for new clothing items. These events often require participants to buy specific attire or follow certain fashion trends, creating consistent demand for products like shirts, shoes, and hats.
 For example, events like Igbo weddings in the East often lead to higher sales of formal attire and accessories.
+
 In summary, population density, economic strength, fashion trends, retail infrastructure, and cultural practices all contribute to the higher sales performance of clothing items in Nigeria's South and East compared to the West and North. 
 
 ![image](https://github.com/user-attachments/assets/41aab277-e6f7-430a-9930-5b644c422b14)
 
 * From the Monthly sales trend table and chart above it is seen that sales spike up in February from total revenue of #248,000 in January to total revenue of #546,300 amounting to 120% increase in sales.
+* 
 Month of February sales alone captured 26% of the total annual revenue while April sales revenue dropped to #46,865 signifying on 2.2% of total sales revenue.
+
 For apparel items like shoes, shirts, gloves, hats, socks, and jackets, seasonal demand and spending patterns often drive fluctuations in sales. Here's why you might see high revenues in February and July and low revenues in November and December:
+
 #### February (High Sales):
 * Post-Holiday Sales: Many retailers run clearance and discount events to move leftover inventory from the holiday season, attracting bargain hunters.
+* 
 Seasonal Shift: Winter clothing, like jackets and gloves, might be in high demand due to cold weather. Additionally, new spring collections may be launching, sparking fresh interest.
 Valentine’s Day: Apparel is often a popular gift choice for Valentine's Day, boosting sales of items like shirts, hats, and socks.
 
@@ -253,19 +267,20 @@ Using SQL, write Queries on how to extract key insights based on the following;
 * Find the top 5 customers by total purchase amount. 
 *  Calculate the percentage of total sales contributed by each region. 
 * Identify products with no sales in the last quarter.
-* 
+ 
 In this portfolio project, I conducted an analysis of Sophiematrissales data using SQL queries with dataset Schema [dbo].[SALESDATA] with following field details;
+
 *OrderID
-*Customer_id
-*Product
-*Region
-*orderDate
-*Quantity_Units_Sold
-*Unit_price
-*Total_revenue_Per_Product
-*Average_Unit_Product
-*Month
-*Quarter
+* Customer_id
+* Product
+* Region
+* orderDate
+* Quantity_Units_Sold
+* Unit_price
+* Total_revenue_Per_Product
+* Average_Unit_Product
+* Month
+* Quarter
 
 ![image](https://github.com/user-attachments/assets/b108526a-6c14-47f1-bed1-65b11d1c568f)
 
@@ -278,4 +293,11 @@ In this portfolio project, I conducted an analysis of Sophiematrissales data usi
 ![image](https://github.com/user-attachments/assets/0e3bf53d-f33b-40ef-b38b-b3ce0145eee5)
 
 ![image](https://github.com/user-attachments/assets/959af8b6-9128-4e81-9155-3b9dab532628)
+
+![image](https://github.com/user-attachments/assets/594011c9-6d07-41d2-8afe-4f7704080038)
+
+![image](https://github.com/user-attachments/assets/adb2cb6b-e3c4-402e-bc05-996c88519209)
+
+![image](https://github.com/user-attachments/assets/0f519c76-cf32-4882-a12c-e31cdf193916)
+
 
