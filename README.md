@@ -1,13 +1,13 @@
 # SOPHIEMATRIS SUPERMARKET SALES PERFORMANCE ANALYSIS 
 
 # INTRODUCTION
-In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies. 
-This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.
+**In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies**. 
+**This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.
 By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights
-that can inform business decisions and drive growth.
+that can inform business decisions and drive growth**.
 
 # PROJECT OBJECTIVES
-The primary objectives of this data analysis project are to:
+**The primary objectives of this data analysis project are to**:
 
 1. Understand Customer Preferences: Identify which fashion categories, styles, and price points resonate most with customers.
 
@@ -123,8 +123,10 @@ Common Data Transformation Challenges:
 4. Optimizing performance
 
 ## DATA CLEANSING AND PREPARATION
-For this project, I will use Microsoft Excel, SQL, and Power Bi with detail data analysis. The data was collected from Fashion retailer stores from FOUR (4) regions from 2023 to 2024. This comprehensive dataset aims to offer insights into shopping habits and provide a valuable understanding of shopping patterns
-##PROJECT OBJECTIVE The primary objective of this data analysis is to comprehend and identify trends in customer purchasing behavior. It will involve analyzing the most frequently used product categories, identifying the region with the highest sales, and examining how sales evolve month by month. In essence, this data analysis will aid in identifying the factors that influence customer behavior
+**For this project, I will use Microsoft Excel, SQL, and Power Bi with detail data analysis. The data was collected from Fashion retailer stores from FOUR (4) regions from 2023 to 2024. This comprehensive dataset aims to offer insights into shopping habits and provide a valuable understanding of shopping patterns**
+##PROJECT OBJECTIVE
+
+**The primary objective of this data analysis is to comprehend and identify trends in customer purchasing behavior. It will involve analyzing the most frequently used product categories, identifying the region with the highest sales, and examining how sales evolve month by month. In essence, this data analysis will aid in identifying the factors that influence customer behavior**
 
 
 
@@ -135,8 +137,8 @@ To obtain the results, Microsoft Excel formulas was used
 ### Total Revenue by Product= F2*G2
 Where F2 represent the quantity Sold and G2 represent Price per Unit
 
-*PIVOT TABLE* : Pivot table will be used to work on  Data calculated suing excel formulas such data  summarization,
-Data Filtering. Comparison, data reshaping and proper Analysis
+*PIVOT TABLE* : **Pivot table will be used to work on  Data calculated suing excel formulas such data  summarization,
+Data Filtering. Comparison, data reshaping and proper Analysis**
 
 ### TOOLS USED
 * Microsoft Excel
