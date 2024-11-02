@@ -178,7 +178,7 @@ Shoes  are  highly demanded by customers yielded totals sales revenue of #613,38
 Total revenue.
 
    Shirt is the second items highly patronized by customers, shirt had total sales 
- Of #485,600 while socks is the least purchased product which amounted to 8.6% of total revenue.
+ Of #485,600 while socks is the least purchased product with total revenue of #180,785 which amounted to 8.6% of total revenue.
 
 Customers may purchase more shirts and shoes compared to hats, jackets, and gloves for several reasons related to fashion trends, utility, and consumer behavior:
 
@@ -196,6 +196,31 @@ Customers may purchase more shirts and shoes compared to hats, jackets, and glov
 
 * Seasonal Demand: While jackets and gloves are typically seasonal items, shirts and shoes can be purchased year-round. This continual demand keeps sales consistent, unlike more seasonal items that may see spikes in specific months.
 research shows that clothing items like shirts often drive sales due to their fundamental role in the wardrobe and the desire for variety. Footwear is similarly a critical component of personal style and function, influencing purchasing behavior significantly.
+![image](https://github.com/user-attachments/assets/b5dcc56c-3a3c-4116-b624-8210e3446890)
 
 
+From the above summarized table and chart we can boldly say that the southern region generated the highest total revenue for Sophiematis supermarket. The south region alone generated total revenue of #927,820 and total unit sold is 24298 and product sold are glooves, shoes, and socks. Follows by eastern region with a total revenue of #485,925 and total unit sold are 20,361. Items sold in the are hat, jacket, shirt and shoes. The western region recorded the lowest sales revenue with total of revenue of #300,345 with 11,400 unit sold. item sold in the west are glooves, hat, shoes and socks 
+Southern region alone recorded 44.16% of the total revenue compared to the western region with 14.29% of total revenue
 
+In Nigeria, higher sales performance in the South,North,East,  and East for products like shirts, shoes, hats, jackets, gloves, and socks can be attributed to several factors:
+*. Population Density and Urbanization:
+The South and East of Nigeria include highly populated and urbanized regions such as Lagos, Port Harcourt, and Onitsha. These areas have larger consumer bases with increased purchasing power, resulting in higher sales for everyday items like shirts and shoes.
+Lagos, for example, is a commercial hub with a high demand for fashion items due to the high number of residents and frequent events where people want to dress stylishly. The larger population in these areas leads to more consistent demand across various product categories.
+* Economic Activities and Disposable Income:
+The Southern and Eastern regions have strong economic activities, including oil, trade, and manufacturing industries, particularly around Port Harcourt and Lagos. These industries contribute to higher average disposable incomes, allowing consumers to spend more on apparel and fashion products.
+As people in these regions often have more disposable income, they are more likely to purchase items beyond basic needs, including trendy or high-quality clothing and accessories.
+
+* Climate and Seasonal Demand:
+
+Nigeria has a generally warm climate, but the South and East experience relatively more rainfall. This drives demand for certain items like shoes and hats that can be used year-round, while demand for items like jackets might be more seasonal.
+In contrast, the North tends to be hotter and drier, with less demand for items like jackets or gloves, which are less essential in that climate.
+•	 Fashion Trends and Social Influence:
+The Southern and Eastern regions, especially urban centers like Lagos, are known for their vibrant fashion scenes. Influencers, celebrities, and local trends drive higher demand for stylish clothing items.
+Lagos is known as a fashion and entertainment hub, leading to a higher demand for clothing that reflects current trends and fashion standards, including shirts and shoes which are worn daily.
+•	Infrastructure and Retail Presence:
+The South and East regions have more developed retail infrastructure, including shopping malls, boutiques, and e-commerce delivery services, making it easier for customers to access and purchase clothing items.
+Better access to products and reliable supply chains encourages more frequent purchases compared to the West and North, where such infrastructure may be less developed.
+•	 Cultural Factors:
+Cultural celebrations in the South and East, such as traditional weddings and festivals, drive demand for new clothing items. These events often require participants to buy specific attire or follow certain fashion trends, creating consistent demand for products like shirts, shoes, and hats.
+For example, events like Igbo weddings in the East often lead to higher sales of formal attire and accessories.
+In summary, population density, economic strength, fashion trends, retail infrastructure, and cultural practices all contribute to the higher sales performance of clothing items in Nigeria's South and East compared to the West and North. 
