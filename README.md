@@ -1,4 +1,4 @@
-# SALES PERFORMANCE ANALYSIS ON RETAILS STORE
+# SOPHIEMATRIS SUPERMARKET SALES PERFORMANCE ANALYSIS 
 
 #INTRODUCTION
 In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies. 
@@ -44,7 +44,17 @@ ensuring each sale or order is distinct
   
 *AVEARAGE REVENUE PER PRODUCT: The average revenue generated per product in a given period. This can be calculated by dividing the total revenue by the quantity sold peR PRODUCT
 
-# METHODOLOGY
+### BASIS STASTICS ABOUT THE DATASET
+
+* Total revenue by product: #2,101,090
+* Total Average sales per product: #2,094,317
+* Total Quantity sold by product: 68,461
+* Region with highest sale total revenue:#927,820
+* Top selling Product total revenue:
+ 
+
+
+### METHODOLOGY
 
  ## DATA COLLECTION
 The dataset for this project was made available by Konga, Konga, is a leading e-commerce platform in Nigeria , that provide access to anonymized sale data for reseach and learning.
@@ -126,12 +136,18 @@ Where F2 represent the quantity Sold and G2 represent Price per Unit
 
 *PIVOT TABLE* : Pivot table will be used to work on  Data calculated suing excel formulas such data  summarization,
 Data Filtering. Comparison, data reshaping and proper Analysis
-ANALYSIS QUESTIONS
- Using Excel formulas to calculate metrics such as;
-1.	What is the Total Average sales per product 
-2.	What is the Total revenue by region 
 
-Using pivot table to extract;
+### TOOLS USED
+* Microsoft Excel
+* SQL
+* Pewer BI
+  
+### ANALYSIS QUESTIONS
+ Excel formulas are used to calculate metrics;
+1.	What is the Total Average sales per product 
+2.	What is the Total revenue by region
+
+ pivot table to used to extract;
 
 3.	What are the total sales by product
 4.	What are the total Sales by region   
@@ -143,42 +159,16 @@ Using pivot table to extract;
 10.	What are the percentage of total sales by each region?
            
 Using SQL, write Queries on how to extract key insights based on the following questions.  
-o Retrieve the total sales for each product category. 
-o Find the number of sales transactions in each region. 
-o Find the highest-selling product by total sales value. 
-o Calculate total revenue per product. 
-o Calculate monthly sales totals for the current year. 
-o Find the top 5 customers by total purchase amount. 
-O Calculate the percentage of total sales contributed by each region. 
-o Identify products with no sales in the last quarter. 
+* Retrieve the total sales for each product category. 
+*  Find the number of sales transactions in each region. 
+*  Find the highest-selling product by total sales value. 
+* Calculate total revenue per product. 
+* Calculate monthly sales totals for the current year. 
+* Find the top 5 customers by total purchase amount. 
+*  Calculate the percentage of total sales contributed by each region. 
+* Identify products with no sales in the last quarter. 
+
+### MICROSOFT EXCEL INSIGHT 
 
 
-
-
-
-*The sales revenue spike from #248,000  in Januray to #546,300 February contributing to 45% increase in total sales and this can be related to some of the reasons listed below;
-
-1. Valentine's Day: Many people buy clothing, accessories, and gifts for Valentine's Day, creating a surge in sales. Couples may purchase new outfits for dates, and retailers often offer Valentine's-themed promotions and discounts.
-2. Spring Fashion Releases: February is a key time for brands to introduce spring collections, generating interest and demand as people begin shopping for the upcoming season.
-3. New Year Promotions and Clearance Sales: Leftover stock from the holiday season often goes on clearance, which attracts bargain-hunters looking for discounted fashion items.
-4. Events and Celebrations: Some regions have cultural events
-
-
-![image](https://github.com/user-attachments/assets/7acfb28d-8473-4ff6-b7a9-5bf8b81061cc)
-
-
-Tracing the product to the primary data collected I noticed that various product are been sold at different prices in various location.
-For example Hat is sold in the East for #15 per unit, same Hat is been sold in the west for #50 per and also sold #10 in the North and this can be traced 
-To some of the factors that affect demand and supply such product such product scarcity, cost of transportation. When cost of delivering product to particular
-Location is high, cost of such product will be high. Also when demand for a particular product is very high, price per product will increases. 
-For Example cost of shoes, socks will increased in the Month of September when the children in primary school and secondary school resume new school session and vise visa
-
-
-TOTAL UNIT SOLD BY REGION AND TOTAL UNIT SOLD  BY PRODUCT
-![image](https://github.com/user-attachments/assets/dce153a8-e347-4b4f-b109-2e28dd292d34)
-
-From the above table it is seen that Southern region recorded the higest sales by quantity 
-and items purchased are shoes (9930). Gloves (9903) and Sock (4464) while in Western  recorded the 
-lowest sales and item purchased by those region are Hat (3486), Socks (3457). Gloves (2465)
-Shoes (1992).This shows that in the Western region most customers cannot affort the high cost most of the product due to theie level of incom
 
