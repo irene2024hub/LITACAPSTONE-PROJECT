@@ -51,6 +51,7 @@ ensuring each sale or order is distinct
 * Total Quantity sold by product: 68,461
 * Region with highest sale total revenue:#927,820
 * Top selling Product total revenue:
+* Product category : 6
  
 
 
@@ -169,6 +170,32 @@ Using SQL, write Queries on how to extract key insights based on the following q
 * Identify products with no sales in the last quarter. 
 
 ### MICROSOFT EXCEL INSIGHT 
+
+![image](https://github.com/user-attachments/assets/30d6ed2e-d9f7-43a7-bc45-228a5adb1004)
+
+From Table 1 ,2,3 & 4 above  total revenue and total average sale per product  indicated that
+Shoes  are  highly demanded by customers yielded totals sales revenue of #613,380 and which signify 29.1%  of
+Total revenue.
+
+   Shirt is the second items highly patronized by customers, shirt had total sales 
+ Of #485,600 while socks is the least purchased product which amounted to 8.6% of total revenue.
+
+Customers may purchase more shirts and shoes compared to hats, jackets, and gloves for several reasons related to fashion trends, utility, and consumer behavior:
+
+* Versatility: Shirts and shoes are often more versatile and can be worn in a variety of settings. A good shirt can be dressed up or down, making it suitable for casual outings, work, or formal events. Similarly, shoes, especially styles like sneakers or loafers, can complement a wide range of outfits and occasions.
+
+*  Frequency of Use: Shirts and shoes are everyday essentials. People tend to wear shirts regularly, often needing multiple options for different occasions, while shoes can also vary based on style, activity (like running vs. casual), and season.
+
+* Fashion Trends: Trends can significantly influence purchases. Shirts, being a staple item in most wardrobes, are frequently updated with new styles, colors, and patterns. Footwear trends also evolve, leading to increased consumer interest and purchasing frequency for shoes.
+
+* Comfort and Fit: Consumers often prioritize comfort in clothing choices. Well-fitting shirts and comfortable shoes are crucial for daily wear, whereas items like jackets and gloves might not be needed as frequently, depending on the climate.
+
+* Price Points: Shirts and shoes can be found in a wide range of price points, making them accessible to a broader audience. This accessibility can encourage more purchases, as customers feel they can find options within their budget.
+
+* Emotional Purchase Factors: Clothing is often tied to personal expression and identity. Customers may feel a stronger emotional connection to shirts and shoes as they allow for individual expression, leading to higher purchase rates.
+
+* Seasonal Demand: While jackets and gloves are typically seasonal items, shirts and shoes can be purchased year-round. This continual demand keeps sales consistent, unlike more seasonal items that may see spikes in specific months.
+research shows that clothing items like shirts often drive sales due to their fundamental role in the wardrobe and the desire for variety. Footwear is similarly a critical component of personal style and function, influencing purchasing behavior significantly.
 
 
 
