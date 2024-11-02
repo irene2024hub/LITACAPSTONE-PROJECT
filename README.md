@@ -3,13 +3,13 @@
 # INTRODUCTION
 **In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies**. 
 **This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.**
-*8By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights
+** By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights
 that can inform business decisions and drive growth**.
 
 # PROJECT OBJECTIVES
 **The primary objectives of this data analysis project are to**:
 
-1. **Understand Customer Preferences: Identify which fashion categories, styles, and price points resonate most with customers.
+1. **Understand Customer Preferences: Identify which fashion categories, styles, and price points resonate most with customers**.
 
 
 2. Optimize Inventory Management: Determine fast-moving and slow-moving items to ensure optimal stock levels, reducing overstock and stockouts.
@@ -300,4 +300,16 @@ In this portfolio project, I conducted an analysis of Sophiematrissales data usi
 
 ![image](https://github.com/user-attachments/assets/0f519c76-cf32-4882-a12c-e31cdf193916)
 
+
+ I anlyzed data from SQL. I used SQL to query the data from the database and imported into PowerBI where the actual analysis was carried out. 
+ 
+![image](https://github.com/user-attachments/assets/3283dde4-d6d0-44a0-99f3-cb3954e2d5b1)
+
+![image](https://github.com/user-attachments/assets/8fbaa5c7-ea5a-45ee-8453-aca8ac946dda)
+
+ ![image](https://github.com/user-attachments/assets/4fa58d32-475a-4a08-b638-b55804925e6f)
+ 
+![image](https://github.com/user-attachments/assets/6d299e92-090a-425a-8e74-5628b6ce9904)
+
+![image](https://github.com/user-attachments/assets/2ac372bb-a395-42b7-99c0-a25e684121cb)
 
