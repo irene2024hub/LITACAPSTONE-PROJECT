@@ -1,6 +1,6 @@
 # SOPHIEMATRIS SUPERMARKET SALES PERFORMANCE ANALYSIS 
 
-#INTRODUCTION
+# INTRODUCTION
 In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies. 
 This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.
 By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights
@@ -224,3 +224,26 @@ Better access to products and reliable supply chains encourages more frequent pu
 Cultural celebrations in the South and East, such as traditional weddings and festivals, drive demand for new clothing items. These events often require participants to buy specific attire or follow certain fashion trends, creating consistent demand for products like shirts, shoes, and hats.
 For example, events like Igbo weddings in the East often lead to higher sales of formal attire and accessories.
 In summary, population density, economic strength, fashion trends, retail infrastructure, and cultural practices all contribute to the higher sales performance of clothing items in Nigeria's South and East compared to the West and North. 
+
+![image](https://github.com/user-attachments/assets/41aab277-e6f7-430a-9930-5b644c422b14)
+
+* From the Monthly sales trend table and chart above it is seen that sales spike up in February from total revenue of #248,000 in January to total revenue of #546,300 amounting to 120% increase in sales.
+Month of February sales alone captured 26% of the total annual revenue while April sales revenue dropped to #46,865 signifying on 2.2% of total sales revenue.
+For apparel items like shoes, shirts, gloves, hats, socks, and jackets, seasonal demand and spending patterns often drive fluctuations in sales. Here's why you might see high revenues in February and July and low revenues in November and December:
+#### February (High Sales):
+* Post-Holiday Sales: Many retailers run clearance and discount events to move leftover inventory from the holiday season, attracting bargain hunters.
+Seasonal Shift: Winter clothing, like jackets and gloves, might be in high demand due to cold weather. Additionally, new spring collections may be launching, sparking fresh interest.
+Valentine’s Day: Apparel is often a popular gift choice for Valentine's Day, boosting sales of items like shirts, hats, and socks.
+
+  ##### July (High Sales):
+* Mid-Year Sales: Many stores hold "mid-year" or "summer clearance" sales to clear out summer inventory and make room for fall collections.
+* Back-to-School Shopping: Some regions begin back-to-school shopping as early as July, which includes buying apparel.
+
+#### Seasonal Apparel: Lighter clothing, like shirts and hats, often see a boost as people prepare for vacations, while early discounts on fall clothing can start to emerge.
+
+#### November and December (Low Sales):
+
+* Competition with Other Holiday Spending: During the holiday season, people often allocate more of their budget toward gifts, home decorations, and other holiday-specific expenses rather than apparel.
+
+* Gifting Patterns: Apparel items like gloves, hats, and socks are sometimes less frequently given as gifts compared to electronics or toys.
+Waiting for Post-Holiday Discounts: Some consumers might delay clothing purchases to take advantage of January clearance events, particularly for winter items like jackets.
