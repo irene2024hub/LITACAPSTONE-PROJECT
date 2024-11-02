@@ -58,14 +58,16 @@ ensuring each sale or order is distinct
 ### METHODOLOGY
 
  ## DATA COLLECTION
-The dataset for this project was made available by Konga, Konga, is a leading e-commerce platform in Nigeria , that provide access to anonymized sale data for reseach and learning.
-The data was provide inCSV format, making it easliy accessible for analysis
+**The dataset for this project was made available by Konga, Konga, is a leading e-commerce platform in Nigeria ,
+that provide access to anonymized sale data for reseach and learning.**
+
+**The data was provide inCSV format, making it easliy accessible for analysis*8
 
 ## DATA MANIPULATION
 1. *DATA CLEANSING
-    - All duplicated data were removed using Data validation method.Remove duplicates (Data > Data Validation > Remove Duplicates)
-    - Handle missing values (Find & Select > Go To Special > Blanks)
-    - Remove unnecessary characters (Text to Columns, Flash Fill)
+    - **All duplicated data were removed using Data validation method.Remove duplicates (Data > Data Validation > Remove Duplicates)
+    - **Handle missing values (Find & Select > Go To Special > Blanks)**
+    - **Remove unnecessary characters (Text to Columns, Flash Fill)**
 2.  *DATA NORMALIZATION :
     - Convert text to uppercase/lowercase (FORMULATEXT, LOWER/UPPER)
     - Standardize date formats (Text to Date, DATE function)
