@@ -1,10 +1,12 @@
 # SOPHIEMATRIS SUPERMARKET SALES PERFORMANCE ANALYSIS 
 
 # INTRODUCTION
-**In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies**. 
-**This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.**
-** By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights**
-^that can inform business decisions and drive growth**.
+**In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales**
+**strategies This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.**
+
+**By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover**
+**valuable insights that can inform business decisions and drive growth**.
+
 
 # PROJECT OBJECTIVES
 **The primary objectives of this data analysis project are to**:
