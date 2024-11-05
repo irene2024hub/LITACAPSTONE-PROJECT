@@ -233,7 +233,7 @@ Using SQL, write Queries on how to extract key insights based on the following;
 
 ![image](https://github.com/user-attachments/assets/2ac372bb-a395-42b7-99c0-a25e684121cb)
 
-## SALES PERFORMANCE GENERAL DASHBOARD
+## SALES PERFORMANCE GENERAL DASHBOARD PREPARED WITH POWER BI MODEL
 
 ![image](https://github.com/user-attachments/assets/24ca816c-8527-45d5-ad13-c4ae8743c844)
 
