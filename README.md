@@ -240,7 +240,7 @@ Data Filtering. Comparison, data reshaping and proper Analysis**
 
 
 
- ### Details anlyzed data from SQL. I used SQL to query the data from the database and imported into PowerBI where the actual analysis was carried out. 
+ ### DATABASE FROM SQL IMPORTED  into PowerBI for further analysis performance 
  
 ![image](https://github.com/user-attachments/assets/3283dde4-d6d0-44a0-99f3-cb3954e2d5b1)
 
@@ -250,7 +250,7 @@ Data Filtering. Comparison, data reshaping and proper Analysis**
  
 ![image](https://github.com/user-attachments/assets/6d299e92-090a-425a-8e74-5628b6ce9904)
 
-![image](https://github.com/user-attachments/assets/2ac372bb-a395-42b7-99c0-a25e684121cb)
+
 
 ## SALES PERFORMANCE GENERAL DASHBOARD PREPARED WITH POWER BI MODEL
 
@@ -263,9 +263,19 @@ Data Filtering. Comparison, data reshaping and proper Analysis**
 
 
 
-## REGION WITH THE HIGEST SALES REVENUE
+## REGION WITH THE HIGEST SALES REVENUE (SOUTH)
 
 ![image](https://github.com/user-attachments/assets/368d309b-3874-48f1-9f04-0d0c7fcf69ea)
+
+
+## THE WESTERN REGION HAPPENED TO BE THE REGION THAT RETRIVE THE LOWEST TOTAL INCOME
+
+![image](https://github.com/user-attachments/assets/fe2b6630-4637-4b6f-9437-ad49c2b63013)
+
+
+                  # KEY INSIGHT
+
+### LET TAKE A LOOK AT  THE REGION WITH HIGEST SALES INCOME 
 
 * **This analysis is based on the Southern region sales with total revenue of #927,820;
 Regional Performance (Southern Region of Nigeria)**
@@ -297,9 +307,6 @@ highest sales in the year and product sold was shoes, also in June total sales a
 
 #### These insights we guide on where to channel the organization marketing efforts or possibly adjust product strategies to boost sales in other regions
 
-## THE WESTERN REGION HAPPENED TO BE THE REGION THAT RETRIVE THE LOWEST TOTAL INCOME
-
-![image](https://github.com/user-attachments/assets/fe2b6630-4637-4b6f-9437-ad49c2b63013)
 
 
 
