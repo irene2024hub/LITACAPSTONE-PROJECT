@@ -233,21 +233,22 @@ Using SQL, write Queries on how to extract key insights based on the following;
 
 ![image](https://github.com/user-attachments/assets/2ac372bb-a395-42b7-99c0-a25e684121cb)
 
+## SALES PERFORMANCE GENERAL DASHBOARD
+
+![image](https://github.com/user-attachments/assets/24ca816c-8527-45d5-ad13-c4ae8743c844)
+
+
+## PRODUCT WITH THE HIGHEST SALES REVENUE (SHOES)
 
  ![image](https://github.com/user-attachments/assets/de6b8211-8dd6-4ad1-b66a-4c8409cf8301)
 
 
-# SALES PERFORMANCE DASHBOARD # 
-### GENERAL DASHBOARD ###
-![image](https://github.com/user-attachments/assets/24ca816c-8527-45d5-ad13-c4ae8743c844)
 
-### HIGHEST SELLING PRODUCT DASHBOARD  ###
+## REGION WITH THE HIGEST SALES REVENUE
 
 ![image](https://github.com/user-attachments/assets/368d309b-3874-48f1-9f04-0d0c7fcf69ea)
 
-
-
-*This analysis is based on the Southern region sales with total revenue of #927,820;
+* **This analysis is based on the Southern region sales with total revenue of #927,820;
 Regional Performance (Southern Region of Nigeria)**
 
 *   **Product-wise Contribution to Total Sales Revenue**
@@ -277,8 +278,7 @@ highest sales in the year and product sold was shoes, also in June total sales a
 
 #### These insights we guide on where to channel the organization marketing efforts or possibly adjust product strategies to boost sales in other regions
 
-## THE WESTERN REGION HAPPENED TO BE THE REGION LOWEST INCOME RETRIVE FROM TOTAL SALES REVENUE
-
+## THE WESTERN REGION HAPPENED TO BE THE REGION THAT RETRIVE THE LOWEST TOTAL INCOME
 
 ![image](https://github.com/user-attachments/assets/fe2b6630-4637-4b6f-9437-ad49c2b63013)
 
