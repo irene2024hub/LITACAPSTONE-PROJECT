@@ -315,7 +315,46 @@ In this portfolio project, I conducted an analysis of Sophiematrissales data usi
 ![image](https://github.com/user-attachments/assets/2ac372bb-a395-42b7-99c0-a25e684121cb)
 
 
- ## HIGHEST SELLING PRODUCT DASHBORAD USING FILTER ##
-
  ![image](https://github.com/user-attachments/assets/de6b8211-8dd6-4ad1-b66a-4c8409cf8301)
+
+
+# SALES PERFORMANCE DASHBOARD # 
+### GENERAL DASHBOARD ###
+![image](https://github.com/user-attachments/assets/24ca816c-8527-45d5-ad13-c4ae8743c844)
+
+### HIGHEST SELLING PRODUCT DASHBOARD  ###
+
+![image](https://github.com/user-attachments/assets/368d309b-3874-48f1-9f04-0d0c7fcf69ea)
+
+**This analysis is based on the Southern region sales with total revenue of #927,820;
+Regional Performance (Southern Region of Nigeria)**
+
+*   **Product-wise Contribution to Total Sales Revenue**
+  
+* **Gloves: 14.13% of total sales with total sales of #247,600**
+  
+* **Socks: 8.60% of total sales with total sales of #133,920**
+* **Shoes: 29% of total sales with total sales of #546,300 which happened to be the highest selling product within the reporting period.**
+
+* **Total Quantity Sold in the southern region: 24,298 units**
+  
+* **Customer Insights**
+  
+* **Total Number of Distinct Customers: 500**
+
+* **Average Purchase Volume per Customer:  units per customer**
+
+## Key Insights:
+
+**Shoes are the highest revenue contributor at 29%, which might indicate they are either priced higher or have a higher volume sold than other products.
+Average Revenue per Customer in the southern region suggests a moderate customer spending pattern.**
+**Gloves and socks, despite being essential items, contribute significantly less, so they may require focused sales strategies for growth**.
+
+**Monthly transaction details shows that in February sum of five hundred and forty six thousand was achieved (#546,300) and happened the month with 
+highest sales in the year and product sold was shoes, also in June total sales amounted to two hundred and forty seven thousand six hundred naira 
+(#247,600) while in October sum of one hundred and thirty three thousand was recovered (#133,920).**
+
+#### These insights we guide on where to channel the organization marketing efforts or possibly adjust product strategies to boost sales in other regions
+
+
 
