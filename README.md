@@ -3,8 +3,8 @@
 # INTRODUCTION
 **In a retail environment, data analysis plays a crucial role in understanding customer behavior, optimizing inventory, and enhancing sales strategies**. 
 **This project focuses on analyzing sales data for a retail store specializing in fashion such as shoes and clothing items.**
-** By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights
-that can inform business decisions and drive growth**.
+** By examining transaction records, customer demographics, product performance, and seasonal trends, this analysis aims to uncover valuable insights**
+^that can inform business decisions and drive growth**.
 
 # PROJECT OBJECTIVES
 **The primary objectives of this data analysis project are to**:
@@ -12,46 +12,51 @@ that can inform business decisions and drive growth**.
 1. **Understand Customer Preferences: Identify which fashion categories, styles, and price points resonate most with customers**.
 
 
-2. Optimize Inventory Management: Determine fast-moving and slow-moving items to ensure optimal stock levels, reducing overstock and stockouts.
+2. **Optimize Inventory Management: Determine fast-moving and slow-moving items to ensure optimal stock levels, reducing overstock and stockouts.**
 
 
-3. Analyze Sales Trends:Track sales trends across region,  and promotional periods to align inventory and marketing efforts with high-demand times.
+3. **Analyze Sales Trends:Track sales trends across region,  and promotional periods to align inventory and marketing efforts with high-demand times.**
 
 
-4. Customer Segmentation: Segment customers based on purchase patterns and demographics to personalize marketing and improve customer retention.
+4. **Customer Segmentation: Segment customers based on purchase patterns and demographics to personalize marketing and improve customer retention.**
   
-5. It will involve analyzing the most frequently used product categories, identifying the region with the highest sales,
-and examining how sales evolve month by month. In essence, this project will aid in identifying the factors that influence customer behavior
+5. **It will involve analyzing the most frequently used product categories, identifying the region with the highest sales,
+and examining how sales evolve month by month. In essence, this project will aid in identifying the factors that influence customer behavior**
 
 # DATA DESCRIPTION
 
-The dataset includes the following fields:
+**The dataset includes the following fields:**
 
-* ORDER ID: A unique identifier for each individual order. This ID helps in tracking orders across different transactions, 
-ensuring each sale or order is distinct
+* **ORDER ID: A unique identifier for each individual order. This ID helps in tracking orders across different transactions, 
+ensuring each sale or order is distinct**
 
-* CUSTOMER ID: A unique identifier for each customer. It allows for tracking purchase behavior, frequency, and segmentation based on customer-related metrics
+* C**USTOMER ID: A unique identifier for each customer. It allows for tracking purchase behavior, frequency, and segmentation based on
+   customer-related metrics**
   
-* REGION: The region on which each product is been sold by different outlet ( North, South, East and South)
+* **REGION: The region on which each product is been sold by different outlet ( North, South, East and South**)
 
-* PRODUCT: The name or ID of the product sold. This allows for analysis of product popularity, revenue contribution, and inventory management.
+* P**RODUCT: The name or ID of the product sold. This allows for analysis of product popularity, revenue contribution, and inventory management.
+**
+* **ORDER DATE: The date on which the order was placed. This helps in understanding sales patterns over time, such as seasonal trends, peak periods,
+ and customer buying habits**.
 
-* ORDER DATE: The date on which the order was placed. This helps in understanding sales patterns over time, such as seasonal trends, peak periods, and customer buying habits.
+* Q**UANTITY SOLD: The number of units of the product sold in each order. It helps in understanding demand, inventory turnover, and contributes
+   to revenue calculations.**
 
-* QUANTITY SOLD: The number of units of the product sold in each order. It helps in understanding demand, inventory turnover, and contributes to revenue calculations.
-
-* TOTAL REVENUE: The total sales revenue generated from each order. It can be calculated as Quantity Sold * Price per Unit. This is essential for revenue analysis, profit calculations, and sales performance metrics.
+* **TOTAL REVENUE: The total sales revenue generated from each order. It can be calculated as Quantity Sold * Price per Unit.
+  This is essential for revenue analysis, profit calculations, and sales performance metrics**.
   
-*AVEARAGE REVENUE PER PRODUCT: The average revenue generated per product in a given period. This can be calculated by dividing the total revenue by the quantity sold peR PRODUCT
+* **AVEARAGE REVENUE PER PRODUCT: The average revenue generated per product in a given period. This can be calculated by dividing the total 
+revenue by the quantity sold peR PRODUCT**
 
 ### BASIS STASTICS ABOUT THE DATASET
 
-* Total revenue by product: #2,101,090
-* Total Average sales per product: #2,094,317
-* Total Quantity sold by product: 68,461
-* Region with highest sale total revenue:#927,820
-* Top selling Product total revenue:
-* Product category : 6
+* **Total revenue by product: #2,101,090**
+* T**otal Average sales per product: #2,094,317**
+* **Total Quantity sold by product: 68,461**
+*** Region with highest sale total revenue:#927,820**
+* **Top selling Product total revenue:**
+* P**roduct category : 6**
  
 
 
@@ -61,75 +66,84 @@ ensuring each sale or order is distinct
 **The dataset for this project was made available by Konga, Konga, is a leading e-commerce platform in Nigeria ,
 that provide access to anonymized sale data for reseach and learning.**
 
-**The data was provide inCSV format, making it easliy accessible for analysis*8
+ **The data was provide inCSV format, making it easliy accessible for analysis**
 
 ## DATA MANIPULATION
-1. *DATA CLEANSING
-    - **All duplicated data were removed using Data validation method.Remove duplicates (Data > Data Validation > Remove Duplicates)
+
+1. D**ATA CLEANSING**
+2. 
+    - **All duplicated data were removed using Data validation method.Remove duplicates (Data > Data Validation > Remove Duplicates)**
     - **Handle missing values (Find & Select > Go To Special > Blanks)**
     - **Remove unnecessary characters (Text to Columns, Flash Fill)**
-2.  *DATA NORMALIZATION :
-    - Convert text to uppercase/lowercase (FORMULATEXT, LOWER/UPPER)
-    - Standardize date formats (Text to Date, DATE function)
-    - Normalize numeric values (ROUND, TRUNC)
-3. *Data Transformation:
-    - Pivot data (PivotTables)
-    - Transpose data (Paste Special > Transpose)
-    - Group data (Group By)
-    - Aggregate data (SUM, AVERAGE, COUNT)
-4. *Data Merging:
-    - Combine datasets (VLOOKUP, INDEX-MATCH)
-    - Merge tables (Power Query, Merge & Append)
-5. *Data Splitting:
-    - Split columns (Text to Columns)
-    - Split rows (Filter, Group By)
+3.  **DATA NORMALIZATION** :
+    -** Convert text to uppercase/lowercase (FORMULATEXT, LOWER/UPPER)**
+    - **Standardize date formats (Text to Date, DATE function)**
+    - **Normalize numeric values (ROUND, TRUNC)**
+    - 
+4. **Data Transformation:**
+    - **Pivot data (PivotTables)**
+    - **Transpose data (Paste Special > Transpose)**
+    - **Group data (Group By)**
+    - **Aggregate data (SUM, AVERAGE, COUNT)**
+5. **Data Merging:**
+    - **Combine datasets (VLOOKUP, INDEX-MATCH)**
+    - **Merge tables (Power Query, Merge & Append)**
+6. **Data Splitting:**
+    - **Split columns (Text to Columns)**
+    - **Split rows (Filter, Group By)**
 
-Microsoft Excel Functions:
+  **Microsoft Excel Functions:**
 
-1. Text functions: LEN, LEFT, RIGHT, FIND, REPLACE
-2. Date functions: DATE, DATEDIF, EOMONTH
-3. Numeric functions: ROUND, TRUNC, RAND
-4. Logical functions: IF, IFERROR, IFBLANK
-5. Lookup functions: VLOOKUP, INDEX-MATCH
+1. **Text functions: LEN, LEFT, RIGHT, FIND, REPLACE**
+2.** Date functions: DATE, DATEDIF, EOMONTH**
+3. **Numeric functions: ROUND, TRUNC, RAND**
+4. **Logical functions: IF, IFERROR, IFBLANK**
+5. **Lookup functions: VLOOKUP, INDEX-MATCH**
 
-Power Query:
+## Power Query:
 
-1. Import data (From File, From Database)
-2. Transform data (Group By, Pivot, Merge)
-3. Load data (Load To, Load To Worksheet)
+1. **Import data (From File, From Database)**
+2. **Transform data (Group By, Pivot, Merge)**
+3. **Load data (Load To, Load To Worksheet)**
 
-Data Analysis Tools:
+## Data Analysis Tools:
 
-1. PivotTables
-2. Charts (Column, Line, Bar)
-3. Conditional Formatting
-4. Data Validation
+1. **PivotTables**
+2. **Charts (Column, Line, Bar)**
+3. **Conditional Formatting**
+4. **Data Validation**
 
-Best Practices:
+## Best Practices:
 
-1. Document transformations
-2. Verify data integrity
+1. **Document transformations**
+2. **Verify data quality and integrity**
 3. **Use meaningful column names**
-4. T**est transformations**
+4. **Test transformations**
 5. **Version control**
 
 **Example Transformations:**
 1. **Group sales by region**
+2. **Group sales by product**
 **=PivotTable (Region, SUM(Sales))**
 
 **Common Data Transformation Challenges:**
 
-1. Handling missing values
-2. Dealing with inconsistent data formats
-3. Merging large datasets
-4. Optimizing performance
+1. **Handling missing values**
+2. **Dealing with inconsistent data formats**
+3. **Merging large datasets**
+4. **Optimizing performance**
 
 ## DATA CLEANSING AND PREPARATION
-**For this project, I will use Microsoft Excel, SQL, and Power Bi with detail data analysis. The data was collected from Fashion retailer stores from FOUR (4) regions from 2023 to 2024. This **comprehensive dataset aims to offer insights into shopping habits and provide a valuable understanding of shopping patterns**
+
+**For this project, I will use Microsoft Excel, SQL, and Power Bi with detail data analysis. The data was collected from Fashion 
+retailer stores from FOUR (4) regions from 2023 to 2024. This **comprehensive dataset aims to offer insights into shopping habits 
+and provide a valuable understanding of shopping patterns**
 
 ##PROJECT OBJECTIVE
 
-**The primary objective of this data analysis is to comprehend and identify trends in customer purchasing behavior. It will involve analyzing the most frequently used product categories, identifying the region with the highest sales, and examining how sales evolve month by month. In essence, this data analysis will aid in identifying the factors that influence customer behavior**
+**The primary objective of this data analysis is to comprehend and identify trends in customer purchasing behavior. It will involve
+analyzing the most frequently used product categories, identifying the region with the highest sales, and examining how sales evolve 
+month by month. In essence, this data analysis will aid in identifying the factors that influence customer behavior**
 
 
 
@@ -144,25 +158,28 @@ Where F2 represent the quantity Sold and G2 represent Price per Unit
 Data Filtering. Comparison, data reshaping and proper Analysis**
 
 ### TOOLS USED
-* Microsoft Excel
-* SQL
-* Pewer BI
+
+* **Microsoft Excel**
+* **SQL**
+* Power BI
   
 ### ANALYSIS QUESTIONS
- Excel formulas are used to calculate metrics;
-1.	What is the Total Average sales per product 
-2.	What is the Total revenue by region
 
- pivot table to used to extract;
+ E**xcel formulas are used to calculate metrics;**
+ 
+1.	**What is the Total Average sales per product **
+2.	**What is the Total revenue by region**
+**
+ pivot table to used to extract;**
 
-3.	What are the total sales by product
-4.	What are the total Sales by region   
-5.	What are the Average sales by product
-6.	Analysis total product ordered by each region?
-7.	Calculate Monthly Sales Trend? 
-8.	Calculate the amount of product ordered by each of the region monthly?
-9.	Identify the product with the Highest and Lowest sale by Region?
-10.	What are the percentage of total sales by each region?
+3.	**What are the total sales by product**
+4.	**What are the total Sales by region **  
+5.	**What are the Average sales by product**
+6.	**Analysis total product ordered by each region?**
+   **Calculate Monthly Sales Trend?**
+8.	**Calculate the amount of product ordered by each of the region monthly?**
+9.	**Identify the product with the Highest and Lowest sale by Region?**
+10.	**What are the percentage of total sales by each region?**
 
 
 ![image](https://github.com/user-attachments/assets/1b13e78e-cdff-48c1-842c-6c703d5fc668)
@@ -177,31 +194,31 @@ Data Filtering. Comparison, data reshaping and proper Analysis**
 
 ## EXPLORATORY DATA ANALYSIS ON SALES PERFORMANCE USING SQL
 
-Using SQL, write Queries on how to extract key insights based on the following;
+**Using SQL, write Queries on how to extract key insights based on the following;**
 
-* Retrieve the total sales for each product category. 
-*  Find the number of sales transactions in each region. 
-*  Find the highest-selling product by total sales value. 
-* Calculate total revenue per product. 
-* Calculate monthly sales totals for the current year. 
-* Find the top 5 customers by total purchase amount. 
-*  Calculate the percentage of total sales contributed by each region. 
-* Identify products with no sales in the last quarter.
+* **Retrieve the total sales for each product category.** 
+*  **Find the number of sales transactions in each region.** 
+*  **Find the highest-selling product by total sales value.**
+*** Calculate total revenue per product**. 
+* **Calculate monthly sales totals for the current year**. 
+* **Find the top 5 customers by total purchase amount**. 
+*  **Calculate the percentage of total sales contributed by each region**. 
+* **Identify products with no sales in the last quarter.**
  
-**In this portfolio project, I conducted an analysis of Sophiematrissales data using SQL queries with dataset Schema
+**In this portfolio project, I conducted an analysis of Sophiematris sales data using SQL queries with dataset Schema
 [dbo].[SALESDATA] with following field details;**
 
-*OrderID
-* Customer_id
-* Product
-* Region
-* orderDate
-* Quantity_Units_Sold
-* Unit_price
-* Total_revenue_Per_Product
-* Average_Unit_Product
-* Month
-* Quarter
+***OrderID**
+* **Customer_id**
+* **Product**
+* **Region**
+* **orderDate**
+* **Quantity_Units_Sold**
+* **Unit_price**
+* **Total_revenue_Per_Product**
+* **Group sales by region**
+* **Monthly sales values**
+* **Quarterly sales value**
 
 ![image](https://github.com/user-attachments/assets/b108526a-6c14-47f1-bed1-65b11d1c568f)
 
