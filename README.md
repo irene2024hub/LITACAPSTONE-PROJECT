@@ -256,7 +256,20 @@ month by month. In essence, this data analysis will aid in identifying the facto
  
 ![image](https://github.com/user-attachments/assets/6d299e92-090a-425a-8e74-5628b6ce9904)
 
+## MEASURES AND CALCULATED FUNCTIONS USUAGE IN POWER BI
 
+#### CALULATED COLUMNS
+
+**Calcuated column was CREATED  on the follwing field using Conditional columns;**
+
+ * **QUARTLY & MONTHLY**
+ 
+![image](https://github.com/user-attachments/assets/59bb2608-d2be-4f3e-9afb-4dcdfdb42230)
+
+  #### MEASURES
+  
+  * **AVEREAGE REVENUE**
+ * **COUNT OF DISTINCT NUMBERS CUSTOMERS**
 
 ## SALES PERFORMANCE GENERAL DASHBOARD PREPARED WITH POWER BI MODEL
 
@@ -267,6 +280,9 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
  ![image](https://github.com/user-attachments/assets/de6b8211-8dd6-4ad1-b66a-4c8409cf8301)
 
+## PRODUCT WITH THE SECOND HIGHEST SALES REVENUE 
+
+![image](https://github.com/user-attachments/assets/779672d3-99ab-4a83-81ee-e813e0bb68f6)
 
 
 ## REGION WITH THE HIGEST SALES REVENUE (SOUTH)
@@ -276,7 +292,8 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
 ## THE WESTERN REGION HAPPENED TO BE THE REGION THAT RETRIVE THE LOWEST TOTAL INCOME
 
-![image](https://github.com/user-attachments/assets/fe2b6630-4637-4b6f-9437-ad49c2b63013)
+![image](https://github.com/user-attachments/assets/2b8718cf-3152-4f51-92a0-cb25ac2025c4)
+
 
 ## PRODUCT WITH THE HIGHEST QUANITY SOLD (HAT)
 
