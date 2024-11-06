@@ -278,6 +278,22 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
 ![image](https://github.com/user-attachments/assets/fe2b6630-4637-4b6f-9437-ad49c2b63013)
 
+## PRODUCT WITH THE HIGHEST QUANITY SOLD (HAT)
+
+![image](https://github.com/user-attachments/assets/349cf0e1-de32-4096-ad45-40ee2e97b009)
+
+## PRODUCT WITH THE LOWEST QUANITY SOLD (JACKET)
+
+![image](https://github.com/user-attachments/assets/d64f8bca-e10e-4669-9173-1613db6c941d)
+
+
+## SALES REPORT FROM THE NORTHERN REGION
+
+![image](https://github.com/user-attachments/assets/7a6e9e41-cbb2-43d9-8698-39e1c9649999)
+
+## SALES REPORT FROM THE EASTERN REGION
+
+![image](https://github.com/user-attachments/assets/15adc027-48a4-4904-91b4-b07467feb379)
 
                   # KEY INSIGHT
 
