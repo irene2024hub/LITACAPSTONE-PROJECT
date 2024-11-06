@@ -264,12 +264,12 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
  * **QUARTLY & MONTHLY**
  
-![image](https://github.com/user-attachments/assets/59bb2608-d2be-4f3e-9afb-4dcdfdb42230)
-
   #### MEASURES
   
   * **AVEREAGE REVENUE**
  * **COUNT OF DISTINCT NUMBERS CUSTOMERS**
+
+![image](https://github.com/user-attachments/assets/59bb2608-d2be-4f3e-9afb-4dcdfdb42230)
 
 ## SALES PERFORMANCE GENERAL DASHBOARD PREPARED WITH POWER BI MODEL
 
