@@ -111,7 +111,11 @@ that provide access to anonymized sale data for reseach and learning.**
 
 ## Data Analysis Tools:
 
-1. **PivotTables**
+ * **Microsoft Excel
+ *  **SQL SERVER
+ *  **POWER PI DESKTOP
+ 
+1. **PivotTables** 
 2. **Charts (Column, Line, Bar)**
 3. **Conditional Formatting**
 4. **Data Validation**
@@ -173,7 +177,7 @@ month by month. In essence, this data analysis will aid in identifying the facto
   
 ### ANALYSIS QUESTIONS
 
- E**xcel formulas are used to calculate metrics;**
+ **Excel formulas are used to calculate metrics;**
  
 1.	**What is the Total Average sales per product **
 2.	**What is the Total revenue by region**
