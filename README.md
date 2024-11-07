@@ -303,7 +303,8 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
 ## PRODUCT WITH THE LOWEST QUANITY SOLD (JACKET)
 
-![image](https://github.com/user-attachments/assets/4a2c058c-aea1-482b-b712-4eeb6d329432)
+![image](https://github.com/user-attachments/assets/1da2180e-783d-475b-84df-4f2d5db97b3a)
+
 
 ## SALES REPORT FROM THE NORTHERN REGION
 ![image](https://github.com/user-attachments/assets/a4d4ba05-156d-4be2-88c7-a74922643805)
