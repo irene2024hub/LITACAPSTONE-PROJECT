@@ -312,7 +312,8 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
 ## SALES REPORT FROM THE EASTERN REGION
 
-![image](https://github.com/user-attachments/assets/319fa913-b561-49d1-a8e2-ef217e9c21dd)
+![image](https://github.com/user-attachments/assets/40605e9e-10f3-4303-9ad6-f5a8a7eeeab6)
+
 
 
                   # KEY INSIGHT
