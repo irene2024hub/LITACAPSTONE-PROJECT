@@ -111,7 +111,9 @@ that provide access to anonymized sale data for reseach and learning.**
 
 ## Data Analysis Tools:
 
- * **Microsoft Excel
+
+ * **Microsoft Excel: used for data cleaning, report summarization and
+ visualization [Download here https://wwww.Microsoft Excel.com]
  *  **SQL SERVER
  *  **POWER PI DESKTOP
  
