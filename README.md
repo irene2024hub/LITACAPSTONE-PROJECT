@@ -116,7 +116,7 @@ that provide access to anonymized sale data for reseach and learning.**
    
  visualization. Microsoft Excel [Download here](https://wwww.Microsoft.com).
 
- *  Microsoft Sql ServerSMSS0 [Download here](https://wwww.Microsoft.com).
+ *  Microsoft Sql ServerSMSS [Download here](https://wwww.Microsoft.com).
     
  *  POWER PI DESKTOP  [Download here](https://wwww.Microsoft.com).
  
