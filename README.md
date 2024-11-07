@@ -269,30 +269,33 @@ month by month. In essence, this data analysis will aid in identifying the facto
   * **AVEREAGE REVENUE**
  * **COUNT OF DISTINCT NUMBERS CUSTOMERS**
 
-![image](https://github.com/user-attachments/assets/59bb2608-d2be-4f3e-9afb-4dcdfdb42230)
+![image](https://github.com/user-attachments/assets/8fd87f57-7b01-4249-a222-9fac3e76da7a
+
 
 ## SALES PERFORMANCE GENERAL DASHBOARD PREPARED WITH POWER BI MODEL
 
-![image](https://github.com/user-attachments/assets/24ca816c-8527-45d5-ad13-c4ae8743c844)
+![image](https://github.com/user-attachments/assets/26060693-d8e0-498e-b036-f0cabf5fcc09)
 
 
 ## PRODUCT WITH THE HIGHEST SALES REVENUE (SHOES)
 
- ![image](https://github.com/user-attachments/assets/de6b8211-8dd6-4ad1-b66a-4c8409cf8301)
+![image](https://github.com/user-attachments/assets/833d752e-ff52-41f3-80bf-bd93cbf4f631)
 
-## PRODUCT WITH THE SECOND HIGHEST SALES REVENUE 
 
-![image](https://github.com/user-attachments/assets/779672d3-99ab-4a83-81ee-e813e0bb68f6)
+## PRODUCT WITH THE SECOND HIGHEST SALES REVENUE (SHIRT)
+
+![image](https://github.com/user-attachments/assets/38d953d1-6c4f-418d-a55f-bb407fc66e63)
 
 
 ## REGION WITH THE HIGEST SALES REVENUE (SOUTH)
 
-![image](https://github.com/user-attachments/assets/368d309b-3874-48f1-9f04-0d0c7fcf69ea)
+
+![image](https://github.com/user-attachments/assets/012f376a-19a9-48d7-af49-fd6e2592eec4)
 
 
 ## THE WESTERN REGION HAPPENED TO BE THE REGION THAT RETRIVE THE LOWEST TOTAL INCOME
 
-![image](https://github.com/user-attachments/assets/2b8718cf-3152-4f51-92a0-cb25ac2025c4)
+![image](https://github.com/user-attachments/assets/2d497e89-f2a5-4564-a963-436b03d9064e)
 
 
 ## PRODUCT WITH THE HIGHEST QUANITY SOLD (HAT)
@@ -301,16 +304,16 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
 ## PRODUCT WITH THE LOWEST QUANITY SOLD (JACKET)
 
-![image](https://github.com/user-attachments/assets/d64f8bca-e10e-4669-9173-1613db6c941d)
-
+![image](https://github.com/user-attachments/assets/4a2c058c-aea1-482b-b712-4eeb6d329432)
 
 ## SALES REPORT FROM THE NORTHERN REGION
+![image](https://github.com/user-attachments/assets/a4d4ba05-156d-4be2-88c7-a74922643805)
 
-![image](https://github.com/user-attachments/assets/7a6e9e41-cbb2-43d9-8698-39e1c9649999)
 
 ## SALES REPORT FROM THE EASTERN REGION
 
-![image](https://github.com/user-attachments/assets/15adc027-48a4-4904-91b4-b07467feb379)
+![image](https://github.com/user-attachments/assets/319fa913-b561-49d1-a8e2-ef217e9c21dd)
+
 
                   # KEY INSIGHT
 
