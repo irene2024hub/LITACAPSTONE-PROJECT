@@ -113,7 +113,7 @@ that provide access to anonymized sale data for reseach and learning.**
 
 
  * **Microsoft Excel: used for data cleaning, report summarization and
- visualization [Download here https://wwww.Microsoft Excel.com]
+ visualization [Download here (https://wwww.Microsoft Excel.com)]
  *  **SQL SERVER
  *  **POWER PI DESKTOP
  
