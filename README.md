@@ -172,7 +172,9 @@ month by month. In essence, this data analysis will aid in identifying the facto
 ### TOOLS USED
 
 * **Microsoft Excel**
-* **SQL**
+* **MICROSOFT SQL SERVER (SMSS)**: Used for data cleaning and processing
+  [Download here (https://www.microsoft SQL Server,com
+  ]
 * Power BI
   
 ### ANALYSIS QUESTIONS
