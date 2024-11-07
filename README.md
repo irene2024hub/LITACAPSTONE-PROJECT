@@ -289,8 +289,7 @@ month by month. In essence, this data analysis will aid in identifying the facto
 
 ## REGION WITH THE HIGEST SALES REVENUE (SOUTH)
 
-
-![image](https://github.com/user-attachments/assets/012f376a-19a9-48d7-af49-fd6e2592eec4)
+![image](https://github.com/user-attachments/assets/a20377da-e612-4def-8f29-d7cb81bd6ad0)
 
 
 ## THE WESTERN REGION HAPPENED TO BE THE REGION THAT RETRIVE THE LOWEST TOTAL INCOME
